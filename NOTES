@@ -1,0 +1,8 @@
+This program was create using JAVA 7, Netbeans ID.
+
+The solutions two classes Homework.java and HomeworkTest.java
+
+The Homework.java contains the logic while HomeworkTest.java runs the application.
+
+When you run the program from HomeworkTest.java, Scanner class was used to read input from command line. 
+You will be requested to input dividend first, and followed by divisor, then you get the result. 
